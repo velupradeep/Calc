@@ -59,6 +59,7 @@ Publish the website in the given URL.
             <button onclick="calculate()">=</button>
             <button onclick="appendToDisplay('+')">+</button>
             <button onclick="appendToDisplay('%')">%</button>
+            <button onclick="appendToDisplay('+')">*</button>
         </div>
     </div>
     <script src="calc.js"></script>
@@ -124,7 +125,7 @@ function evalExpression(expression) {
 ```
 
 ## OUTPUT:
-![alt text](1.jpg)
-![alt text](2.jpg)
+![alt text](3.jpg)
+![alt text](4.jpg)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
