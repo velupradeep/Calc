@@ -37,7 +37,7 @@ Publish the website in the given URL.
 <body>
     <h1 align="center">SIMPLE CALCULATOR</h1>
     <br>
-    <h1 align="center">SARANYA S. (212223220101)</h1>
+    <h1 align="center">PRADEEP V. (212223240119)</h1>
     <div class="calculator">
         <input type="text" id="display" disabled>
         <div class="keys">
